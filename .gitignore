@@ -1,0 +1,5 @@
+.idea
+.terraform
+**credentials
+press-kit
+**tfstate*
